@@ -1,0 +1,30 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{salih_tangel_171044071}
+\author{Salih Tangel}
+\date{April 2021}
+
+\begin{document}
+
+\maketitle
+\section{Introduction}
+{First i am sorry to upload lately insead of i upload could not complate all questions because of i tried to read file with C first i found a code from internet to read csv file but i realized that it is not recording data to array truly so i changed my language  from c to c ++ which caused started me again and i completed lately}
+\section{Conclusion and question 18:}
+{
+From  my obs. pandemic is getting worse.
+Since my observations the number of cases has increased over time for example:
+\newline
+Africa	2020-02-14 cases 1	
+\newline
+Africa	2021-04-23	cases 4487054 
+\newline
+number of new_cases_smoothed  increased over time 
+\newline
+Afghanistan: 	2020-03-05	new_cases 0.429
+\newline
+Afghanistan	2020-05-17		new_cases 323.143
+\newline
+
+}
+\end{document}
