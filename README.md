@@ -1,2 +1,2 @@
 # ProhibilityAndStatics118
-Read pdf and run code
+Read pdf and run code there are some lackness
